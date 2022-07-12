@@ -30,6 +30,9 @@ GitHub is about more than code. It’s a platform for software collaboration, an
 
 ## How to start this course
 
+git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
 1. Above these instructions, right-click **Use this template** and open the link in a new tab.
    ![Use this template](https://user-images.githubusercontent.com/1221423/169618716-fb17528d-f332-4fc5-a11a-eaa23562665e.png)
 2. In the new tab, follow the prompts to create a new repository.
